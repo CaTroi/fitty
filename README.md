@@ -1,23 +1,3 @@
-# Fitty, Snugly text resizing
-
-Scales up (or down) text so it fits perfectly to its parent container.
-
-Ideal for flexible and responsive websites.
-
-**[Visit PQINA.nl for other useful Web Components](https://pqina.nl/)**
-
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rikschennink/fitty/blob/gh-pages/LICENSE)
-[![npm version](https://badge.fury.io/js/fitty.svg)](https://badge.fury.io/js/fitty)
-![npm](https://img.shields.io/npm/dt/fitty)
-
----
-
-[<img src="https://github.com/rikschennink/fitty/blob/gh-pages/header.svg" alt=""/>](https://www.buymeacoffee.com/rikschennink/)
-
-[Buy me a Coffee](https://www.buymeacoffee.com/rikschennink/) / [Dev updates on Twitter](https://twitter.com/rikschennink/)
-
----
-
 ## Features
 
 -   No dependencies
